@@ -8,9 +8,9 @@ This is projects involves analysing the Bike Store Sales in Europe dataset from 
 #### Tools used
 Microsoft Excel
 #### Key steps
-Data Cleaning and Preparation.
-Creating pivot tables and charts.
-Data visualization through an interactive dashboard.
+* Data Cleaning and Preparation.
+* Creating pivot tables and charts.
+* Data visualization through an interactive dashboard.
 ## Executive Summary
 ### Overview of Findings shown through a data visualization
 ### Sales Trends
