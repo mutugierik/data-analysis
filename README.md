@@ -34,6 +34,6 @@ From the revenue per country and age group, adults between the ages of 35-64 bou
 * The business should stock more bikes in their six locations since this is the product that is generating more sales, profit and revenue.
 * The marketing campaign should focus on pulling more ladies to the business since they are generating considerably less revenue compared to males.
 ## Caveats and Assumptions
-o	Include some roadblocks faced when handling the project.
+* The dataset used is static, not dynamic. Thus, the data does not change with time.
 
 
