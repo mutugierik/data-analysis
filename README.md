@@ -22,7 +22,7 @@ Microsoft Excel
 * Data visualization through an interactive dashboard.
 
 ## Executive Summary
-### Overview of Findings shown through a data visualization
+### Overview of Findings through data visualization
 <img width="608" height="333" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/01ae8740-6aca-4d3e-90aa-5b4c402fbf5d" />
 
 ### Sales Trends
