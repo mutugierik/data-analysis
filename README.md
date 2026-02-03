@@ -16,7 +16,7 @@ Source: Kaggle (https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 Microsoft Excel
 #### Key steps
 * Data Cleaning and Preparation.
-* * Removed duplicates
+  * Removed duplicates
   * Transformed the data into a tabular form
 * Creating pivot tables and charts.
 * Data visualization through an interactive dashboard.
