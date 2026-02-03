@@ -22,6 +22,7 @@ Microsoft Excel
 ## Executive Summary
 ### Overview of Findings shown through a data visualization
 <img width="608" height="333" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/01ae8740-6aca-4d3e-90aa-5b4c402fbf5d" />
+
 ### Sales Trends
 From the data visualization, the most sales were made in 2015 and the least in 2011. Moreover, most sales happened in the United States of America while the least sales im Germany. The products that generated most sales are bikes with more than 7 million sales, accessories with at least 3 million sales, and clothing with at least 900,000 sales, respectively. The masculine gender generated more revenue than their female counterpart. 
 ### Product Performance 
