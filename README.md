@@ -22,11 +22,16 @@ Microsoft Excel
 ## Executive Summary
 ### Overview of Findings shown through a data visualization
 <img width="608" height="333" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/01ae8740-6aca-4d3e-90aa-5b4c402fbf5d" />
-
 ### Sales Trends
+From the data visualization, the most sales were made in 2015 and the least in 2011. Moreover, most sales happened in the United States of America while the least sales im Germany. The products that generated most sales are bikes with more than 7 million sales, accessories with at least 3 million sales, and clothing with at least 900,000 sales, respectively. The masculine gender generated more revenue than their female counterpart. 
 ### Product Performance 
+Bikes performed best among the three product categories as it generated most profit. Accessories came second while the clothing product category trailed with the least sales and profit.
+### Customer Segmentation
+From the revenue per country and age group, adults between the ages of 35-64 bought the most bikes across the six countries (Australia, Canada, France, Germany, United Kingdom, United States) where the bike company operates.Young adults aged 25-34 generated the second best sales as they bought more bikes than youth (<25) and the seniors (64+). Seniors generated the least sales as they bought less bikes compared to the rest. 
 ## Recommendations
-o	Insights to improve the business
+* The business should focus on opening more stores in the United States since the USA generated more profit and revenue for the country than the rest of the business locations. 
+* The business should stock more bikes in their six locations since this is the product that is generating more sales, profit and revenue.
+* The marketing campaign should focus on pulling more ladies to the business since they are generating considerably less revenue compared to males.
 ## Caveats and Assumptions
 o	Include some roadblocks faced when handling the project.
 
