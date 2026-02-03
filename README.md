@@ -34,7 +34,7 @@ From the revenue per country and age group visualization, adults between the age
 ## Recommendations
 * The business should focus on opening more stores in the United States since the USA generated more profit and revenue for the country than the rest of the business locations. 
 * The business should stock more bikes in their six locations since this is the product that is generating more sales, profit and revenue.
-* The marketing campaign should focus on pulling more ladies to the business since they are generating considerably less revenue compared to males.
+* The marketing campaign should focus on pulling more ladies to the business since they are generating considerably less revenue compared to males. Moreover, the business peaks in the months of May, June and December, while it dips between July and Novemember. Therefore, the marketing campaign should happen from July to November. 
 ## Caveats and Assumptions
 * The dataset used is static, not dynamic. Thus, the data does not change with time.
 
